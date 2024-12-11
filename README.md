@@ -1,0 +1,1 @@
+# QtCppp_PhanTichPhuongSai
